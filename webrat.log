@@ -1,0 +1,25 @@
+# Logfile created on 2013-10-22 17:44:55 +0200 by logger.rb/36483
+D, [2013-10-22T17:44:55.651694 #6156] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-10-22T17:44:55.698780 #6156] DEBUG -- : REQUESTING PAGE: GET /about with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-10-22T17:44:55.786325 #6156] DEBUG -- : REQUESTING PAGE: GET /help with {} and HTTP headers {"HTTP_REFERER"=>"/about"}
+D, [2013-10-22T17:44:55.825477 #6156] DEBUG -- : REQUESTING PAGE: GET /contact with {} and HTTP headers {"HTTP_REFERER"=>"/help"}
+D, [2013-10-22T17:44:55.875672 #6156] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/contact"}
+D, [2013-10-22T17:44:55.914481 #6156] DEBUG -- : REQUESTING PAGE: GET /signup with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-10-22T17:47:14.689430 #6165] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-10-22T17:47:14.771423 #6165] DEBUG -- : REQUESTING PAGE: GET /about with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-10-22T17:47:14.807814 #6165] DEBUG -- : REQUESTING PAGE: GET /help with {} and HTTP headers {"HTTP_REFERER"=>"/about"}
+D, [2013-10-22T17:47:14.845915 #6165] DEBUG -- : REQUESTING PAGE: GET /contact with {} and HTTP headers {"HTTP_REFERER"=>"/help"}
+D, [2013-10-22T17:47:14.881453 #6165] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/contact"}
+D, [2013-10-22T17:47:14.917450 #6165] DEBUG -- : REQUESTING PAGE: GET /signup with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-10-22T17:49:04.976573 #6174] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-10-22T17:49:05.013735 #6174] DEBUG -- : REQUESTING PAGE: GET /about with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-10-22T17:49:05.125477 #6174] DEBUG -- : REQUESTING PAGE: GET /help with {} and HTTP headers {"HTTP_REFERER"=>"/about"}
+D, [2013-10-22T17:49:05.166540 #6174] DEBUG -- : REQUESTING PAGE: GET /contact with {} and HTTP headers {"HTTP_REFERER"=>"/help"}
+D, [2013-10-22T17:49:05.202995 #6174] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/contact"}
+D, [2013-10-22T17:49:05.239109 #6174] DEBUG -- : REQUESTING PAGE: GET /signup with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-10-22T17:50:09.613301 #6181] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-10-22T17:50:09.695095 #6181] DEBUG -- : REQUESTING PAGE: GET /about with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2013-10-22T17:50:09.730868 #6181] DEBUG -- : REQUESTING PAGE: GET /help with {} and HTTP headers {"HTTP_REFERER"=>"/about"}
+D, [2013-10-22T17:50:09.768593 #6181] DEBUG -- : REQUESTING PAGE: GET /contact with {} and HTTP headers {"HTTP_REFERER"=>"/help"}
+D, [2013-10-22T17:50:09.803930 #6181] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {"HTTP_REFERER"=>"/contact"}
+D, [2013-10-22T17:50:09.839876 #6181] DEBUG -- : REQUESTING PAGE: GET /signup with {} and HTTP headers {"HTTP_REFERER"=>"/"}
