@@ -11,9 +11,11 @@ group :development, :test do
 	gem 'webrat'
 	gem 'annotate'
 	gem 'protected_attributes'
-	gem 'gravatar_image_tag'
+	
 	
 end
+
+gem 'gravatar_image_tag'
 
 group :test do
 	gem 'factory_girl_rails'
