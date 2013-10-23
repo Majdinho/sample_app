@@ -9,6 +9,7 @@ group :development, :test do
 	gem 'rspec-rails'
 	gem 'rspec'
 	gem 'webrat'
+	gem 'annotate-models'
 end
 
 group :production do
