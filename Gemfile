@@ -9,7 +9,8 @@ group :development, :test do
 	gem 'rspec-rails'
 	gem 'rspec'
 	gem 'webrat'
-	gem 'annotate-models'
+	gem 'annotate'
+	gem 'protected_attributes'
 end
 
 group :production do
